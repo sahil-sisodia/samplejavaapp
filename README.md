@@ -1,3 +1,3 @@
 Sample Java Applicaiton V3.2
 
-Testing Jenkins Automation trigger
+Testing Jenkins Automation trigger pipeline
